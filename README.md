@@ -1,4 +1,3 @@
-# Pr--processamento-de-dados-01
 
 # Pré-processamento de Dados - VA1 Individual
 
